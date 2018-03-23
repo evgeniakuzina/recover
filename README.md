@@ -1,4 +1,4 @@
-# recover
+# recover CS50/pset4
 Recover is a program that recovers JPEGs from a forensic image.
 
 In this task I had to figure out how JPG images is build 
